@@ -1,0 +1,7 @@
+Developed a full GUI program using C and Python components to handle and perform various functions on vCard files. 
+Capable of connecting to a SQL database to store and retrieve data.
+
+To run, make sure you have an adequate version of python installed. Navigate to the folder you extracted, then type into cmd line:
+
+make
+python xvcf.py
